@@ -1,0 +1,63 @@
+body {
+     margin:0px;
+ }
+.head {
+	background-color:#460f0f3d; 
+	color: #6b1d1d; 
+	font-size: 20px; 
+	font-family: arial; 
+	font-weight: bold;  
+	text-align: left; 
+	text-shadow: 2px 2px 8px #c33b6f78;
+        word-spacing:40px;
+        padding:8px;
+        width:100%;      
+}
+.head a {
+        text-decoration:none;
+        color:#474773;
+}
+  input[type=text], 
+  select 
+{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid ;
+  border-radius: 1px;
+  box-sizing: border-box;
+}
+ table { 
+   padding-left:30px; 
+   border-radius:14px; 
+   }
+  input[type=email], 
+  select
+ {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid ;
+  border-radius: 8px;
+  box-sizing: border-box;
+}input[type=subscribe]
+ {
+  width: 5%;
+  background-color: green;
+  color: white;
+  padding: 8px 23px;
+  margin: 2px 2px;
+  border: none;
+  border-radius: 8px;}
+input[type=subscribe]:hover { 
+  background-color:red;
+  
+ }  
+ .terms
+{
+  margin-left:2px;
+  padding-right:100px;
+  margin-right:70px;}
+.imp {background-color:#08070782;}

@@ -1,0 +1,107 @@
+body{
+  margin:0px;
+  background: url(images/H4.jpg);
+  background-repeat:no-repeat;
+  background-size:cover; 
+ background-position:center;
+ background-attachment:fixed;}
+.head {
+	background-color:#4232321c; 
+	color: #6b1d1d; 
+	font-size: 20px; 
+	font-family: arial; 
+	font-weight: bold;  
+	text-align: left; 
+	text-shadow: 2px 2px 8px #180b8cfa;
+        word-spacing:40px;
+        padding:8px;
+        width:99%;
+        position:fixed;        
+}
+.dasti {text-align:center;
+        color:white;
+         border:0px solid grey;
+         border-radius:22px;
+         box-shadow:2px 2px 3px black;
+         background-color:#0000005c;}
+table {background-color:#211c1f8f; 
+	color: #e8dede; 
+	font-size: 20px; 
+	font-family: arial; 
+	font-weight: bold;  
+	text-align: left; 
+	text-shadow: 2px 2px 8px #c33b6f78;
+        border-radius:14px;
+        padding:20px;
+        width:45%; 
+        margin-top:98px;
+        padding-top:30px;
+         }
+.head a {
+        text-decoration:none;
+        color:#020215;
+}
+  input[type=text], 
+  select 
+{
+      width: 60%;
+      padding: 12px 20px;
+      margin: 2px 0;
+      display: inline-block;
+      border: 1px solid ;
+      border-radius: 14px;
+      box-sizing: border-box;
+}
+  input[type=email], 
+  select
+ {
+     width: 60%;
+     padding: 12px 20px;
+     margin: 2px 0;
+    display: inline-block;
+     border: 1px solid ;
+     border-radius: 14px;
+     box-sizing: border-box;
+}
+  input[type=number], 
+  select 
+{
+    width: 60%;
+    padding: 12px 20px;
+    margin: 2px 0;
+    display: inline-block;
+    border: 1px solid ;
+    border-radius: 14px;
+    box-sizing: border-box;
+}
+ input[type=submit]:hover
+ { 
+    background-color:blue;
+    padding:10px;
+}
+ input[type=submit]
+ {
+    width: 30%;
+    background-color: green;
+    color: white;
+    padding: 8px 23px;
+    margin: 2px 2px;
+    border: none;
+    border-radius: 12px;
+}
+ input[type=Back]
+ {
+   width: 20%;
+    background-color: red;
+    color: white;
+    padding: 8px 23px;
+    margin: 2px 2px;
+    border: none;
+    text-align:center;
+    border-radius: 12px;  
+}
+ input[type=back]:hover
+ { 
+    background-color:green; 
+    padding:10px;}  
+   
